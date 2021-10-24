@@ -1,3 +1,4 @@
+# My CG Project
 #include <windows.h>
 #include <GL/glut.h>
 #include <iostream>
